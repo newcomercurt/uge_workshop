@@ -76,3 +76,7 @@
    76  history | less
    77  pwd
    78  history > history.txt
+
+
+hidden files must be asked for explicitly. 
+ls are for lists, helps see what is in the folder
