@@ -1,0 +1,78 @@
+    1  git --version
+    2  pwd
+    3  pwd
+    4  cd /c
+    5  pwd
+    6  ls
+    7  ls -t
+    8  ls -lt
+    9  ls -r
+   10  ls -rt
+   11  ls -rl
+   12  ls -c
+   13  ls -d
+   14  ls -e
+   15  pwd
+   16  ls
+   17  ls -f
+   18  ls -m
+   19  cd
+   20  cd c/Users/kevin
+   21  cd c/Users/Kevin
+   22  cd /Users/Kevin
+   23  cd /Users/kevin
+   24  cd
+   25  cd  /c/Users/kevin
+   26  pwd
+   27  mkdir My Dir
+   28  ls
+   29  mkdir My\Dir
+   30  ls
+   31  ls
+   32  ls -l
+   33  cd Desktop
+   34  ls
+   35  cd server.lnk
+   36  cd server
+   37  ../
+   38  cd My Documents
+   39  ls
+   40  ..
+   41  ../
+   42  ls
+   43  ..
+   44  ../kevin
+   45  cd ..
+   46  ls
+   47  pwd
+   48  cd /Start Menu
+   49  cd /My Documents
+   50  cd My Documents
+   51  pwd
+   52  ls
+   53  cd Desktopo
+   54  cd pwd
+   55  ~
+   56  cd ~
+   57  pwed
+   58  pwd
+   59  cd /
+   60  ls
+   61  pwd
+   62  pwd
+   63  cd !
+   64* 
+   65  pwd
+   66  ls /c
+   67  pwd
+   68  .
+   69  pwd
+   70  ls .
+   71  ls
+   72  $history
+   73  history
+   74  history 6
+   75  history | less
+   76  history | less
+   77  pwd
+   78  history > history.txt
